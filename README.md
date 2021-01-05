@@ -44,13 +44,12 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 
 <br />
 
-### Tools:
+### Agile:
 
 <img align="left" alt="git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="gitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 <img align="left" alt="jira" width="36px" src="https://symbols-electrical.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.jpg" />
-<img align="left" alt="visual studio code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
