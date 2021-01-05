@@ -11,6 +11,7 @@
 ### Glad to see you here!  🤩  &nbsp;
 I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
+<br/>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on Microservices Projects.<br />
@@ -29,11 +30,14 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 
 ### Tech stacks:
 
+<img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
+<img align="left" alt="javascript" width="36px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fruby%2F130842&psig=AOvVaw3fjE02fMwAjeczvhPCXcR8&ust=1609899184611000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjXlvvbg-4CFQAAAAAdAAAAABA5" />
+
+
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
-<img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
 <img align="left" alt="c" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
 
 <br />
