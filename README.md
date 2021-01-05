@@ -31,7 +31,7 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 ### Tech stacks:
 
 <img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
-<img align="left" alt="javascript" width="36px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fruby%2F130842&psig=AOvVaw3fjE02fMwAjeczvhPCXcR8&ust=1609899184611000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjXlvvbg-4CFQAAAAAdAAAAABA5" />
+<img align="left" alt="javascript" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
 
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
