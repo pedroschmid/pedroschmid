@@ -1,4 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="pedroschmid" /> </p> -->
 
 
 ### Hi, I am "Pedro Abreu". 👋
@@ -14,20 +14,18 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 <br />
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on Web Design Projects.<br />
-- 🌱 I’m currently learning Machine Learning and Data Science.<br />
-- 👯 I’m looking to collaborate on YouTube<br />
-- 💬 Ask me anything🤓<br />
-- 📫 How to reach me:[Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/)<br />
-- 🥅 2020 Goals: Contribute more to Open Source projects<br />
-- ⚡ Fun fact: I love to listen to music and watch movies.<br />
+- 🔭 I’m currently working on Microservices Projects.<br />
+- 🌱 I’m currently learning NodeJS and Async flow controls.<br />
+- 👯 I’m looking to collaborate on open source repositories<br />
+- 💬 Ask me anything 🤓<br />
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/pedroschmid/)<br />
+- 🥅 2021 Goals: Contribute more to Open Source projects<br />
+- ⚡ Fun fact (i guess?): I love to listen to music when coding.<br />
 
 ### Connect with me:
 
-[<img align="left" alt="Sneha Kumari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/snehaku95115627)
-[<img align="left" alt="Sneha Kumari  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sneha-kumari-152532192)
- [<img align="left" alt="Sneha Kumari - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=100007190169953)
-[<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sneha_thakur_022)
+[<img align="left" alt="pedroschmid  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pedroschmid/)
+[<img align="left" alt="pedroschmid  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/uchiha.pedr0/)
 
 <br />
 
@@ -58,4 +56,4 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 
 ---
 
-![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=Snehakri022&show_icons=true&theme=tokyonight)
+![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroschmid&show_icons=true&theme=tokyonight)
