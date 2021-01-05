@@ -31,13 +31,16 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 ### Tech stacks:
 
 <img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
-<img align="left" alt="javascript" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
+<img align="left" alt="python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
+<img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
 
+### Tools:
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
+<img align="left" alt="visual studio code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="gitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
+
 <img align="left" alt="c" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
 
 <br />
