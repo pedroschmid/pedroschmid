@@ -57,7 +57,6 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 
 
 
-
 ---
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroschmid&show_icons=true&theme=tokyonight)
