@@ -9,7 +9,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedroschmid/pedroschmid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Glad to see you here!  🤩  &nbsp;
-I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalpaiguri Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I am a second year student studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
 <br />
 
