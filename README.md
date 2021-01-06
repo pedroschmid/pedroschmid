@@ -14,8 +14,8 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 <br/>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on Microservices Projects.<br />
-- 🌱 I’m currently learning NodeJS and Async flow controls.<br />
+- 🔭 I’m currently working on microservices projects.<br />
+- 🌱 I’m currently learning TDD on NodeJS and Async flow controls.<br />
 - 👯 I’m looking to collaborate on open source repositories<br />
 - 💬 Ask me anything 🤓<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects<br />
@@ -33,7 +33,7 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 <img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
 <img align="left" alt="python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
-<img align="left" alt="sql" width="36px" src="https://lh3.googleusercontent.com/proxy/D7YuxcTwZKRSN6xc4yY7lBUe-WoR4Kj0bTfheKFXAvFxv2uyR-8J70AqT1H6Y6-ww_kQXQXCZo_jUSolOEFtTOKz9tpmnvoqxKrQ8isKgm2RwxP6" />
+<img align="left" alt="sql" width="36px" src="https://www.pngkey.com/png/detail/256-2565741_mysql-icon.png" />
 
 <br />
 
