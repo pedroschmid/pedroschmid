@@ -30,8 +30,8 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 ### Tech stacks:
 
-<img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
-<img align="left" alt="python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
+<img align="left" alt="javascript" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+<img align="left" alt="python" width="36px" src="https://img2.gratispng.com/20180417/zkw/kisspng-python-computer-icons-tutorial-computer-programmin-social-icons-5ad5ccbb30c4a8.2707803315239610191998.jpg" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
 <img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <br />
