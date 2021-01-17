@@ -31,24 +31,24 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 ### Tech stacks:
 
 <img align="left" alt="javascript" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" alt="python" width="36px" src="https://img2.gratispng.com/20180417/zkw/kisspng-python-computer-icons-tutorial-computer-programmin-social-icons-5ad5ccbb30c4a8.2707803315239610191998.jpg" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
+<img align="left" alt="python" width="36px" src="https://img2.gratispng.com/20180417/zkw/kisspng-python-computer-icons-tutorial-computer-programmin-social-icons-5ad5ccbb30c4a8.2707803315239610191998.jpg" />
 <img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <br />
 
 ### DevOps:
 
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Linux-512.png" />
+<img align="left" alt="linux" width="36px" src="https://img2.gratispng.com/20180502/fcq/kisspng-linux-distribution-computer-icons-operating-system-operating-5ae9bdc1db1999.3924105415252679058974.jpg" />
 
 <br />
 
 ### Agile:
 
 <img align="left" alt="git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="gitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 <img align="left" alt="jira" width="36px" src="https://symbols-electrical.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.jpg" />
+<img align="left" alt="gitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 
 <br />
 <br />
