@@ -39,14 +39,14 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 ### DevOps:
 
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="linux" width="36px" src="https://img2.gratispng.com/20180502/fcq/kisspng-linux-distribution-computer-icons-operating-system-operating-5ae9bdc1db1999.3924105415252679058974.jpg" />
+<img align="left" alt="linux" width="36px" src="https://www.clipartmax.com/png/middle/74-741419_big-image-linux-icon-png.png" />
 
 <br />
 
 ### Agile:
 
-<img align="left" alt="git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="jira" width="36px" src="https://symbols-electrical.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.jpg" />
+<img align="left" alt="git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="jira" width="36px" src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png" />
 <img align="left" alt="gitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 
