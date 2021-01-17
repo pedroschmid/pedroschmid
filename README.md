@@ -9,7 +9,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedroschmid/pedroschmid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Glad to see you here!  🤩  &nbsp;
-I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
+I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
 <br/>
 
@@ -33,8 +33,7 @@ I am a 5/8 student studying Bachelor of Computer Science at Universidade Vila Ve
 <img align="left" alt="javascript" width="36px" src="https://www.edsonemiliano.com.br/blog/wp-content/uploads/2015/04/icon.javascript.png" />
 <img align="left" alt="python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
-<img align="left" alt="sql" width="36px" src="https://www.pngkey.com/png/detail/256-2565741_mysql-icon.png" />
-
+<img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <br />
 
 ### DevOps:
