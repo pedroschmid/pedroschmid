@@ -23,8 +23,8 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 ### Connect with me:
 
-[<img align="left" alt="pedroschmid  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pedroschmid/)
-[<img align="left" alt="pedroschmid  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/uchiha.pedr0/)
+[<img align="left" alt="pedroschmid  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/pedroschmid/)
+[<img align="left" alt="pedroschmid  | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/uchiha.pedr0/)
 
 <br />
 
