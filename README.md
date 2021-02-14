@@ -39,7 +39,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 ### DevOps:
 
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="jenkins" width="36px" src="https://i.dlpng.com/static/png/6378730_preview.png" />
+<img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 
 <br />
 
