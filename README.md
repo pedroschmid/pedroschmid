@@ -19,7 +19,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 - 👯 I’m looking to collaborate on open source repositories<br />
 - 💬 Ask me anything 🤓<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects<br />
-- ⚡ Fun fact (i guess?): I love to listen to music when coding.<br />
+- ⚡ Fun fact: I love to listen to music while coding.<br />
 
 ### Connect with me:
 
