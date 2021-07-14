@@ -28,7 +28,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 <br />
 
-### Tech stacks:
+### Programming Languages:
 
 <img align="left" alt="javascript" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
@@ -40,7 +40,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-
+<img align="left" alt="jenkins" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
 <br />
 
 ### Agile:
