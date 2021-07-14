@@ -15,10 +15,10 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on microservices projects.<br />
-- 🌱 I’m currently learning TDD on NodeJS and Async flow controls.<br />
+- 🌱 Growing my knowledge about operations/infrastructure everyday.<br />
 - 👯 I’m looking to collaborate on open source repositories<br />
 - 💬 Ask me anything 🤓<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects<br />
+- 🥅 2021 Goals: Become a DevOps engineer<br />
 - ⚡ Fun fact: I love to listen to music while coding.<br />
 
 ### Connect with me:
@@ -28,7 +28,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 
 <br />
 
-### Programming Languages:
+### Programming Languages
 
 <img align="left" alt="javascript" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
@@ -36,18 +36,18 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 <img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <br />
 
-### DevOps:
+### DevOps
 
 <img align="left" alt="terraform" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <br />
 
-### Cloud:
+### Cloud
 <img align="left" alt="aws" width="36px" src="https://www.techbrace.com/wp-content/uploads/2018/12/aws.png" />
 <br />
 
-### Agile:
+### Agile
 
 <img align="left" alt="git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="jira" width="36px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
