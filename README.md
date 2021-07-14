@@ -44,7 +44,7 @@ I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓
 <br />
 
 ### Cloud:
-<img align="left" alt="aws" width="36px" src="https://img2.gratispng.com/20180804/ttq/kisspng-amazon-com-logo-amazon-web-services-amazon-elastic-bump-digitech-server-less-api-%D0%BD%D0%B0-aws-%D0%B7%D0%B0-15-5b66552635fad7.8184561115334331262211.jpg" />
+<img align="left" alt="aws" width="36px" src="hhttps://www.techbrace.com/wp-content/uploads/2018/12/aws.png" />
 <br />
 
 ### Agile:
