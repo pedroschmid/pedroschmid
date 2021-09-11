@@ -9,18 +9,9 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedroschmid/pedroschmid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Glad to see you here!  🤩  &nbsp;
-I am studying Bachelor of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
+I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
 <br/>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on microservices projects.<br />
-- 🌱 Growing my knowledge about operations/infrastructure everyday.<br />
-- :sparkling_heart: I love studying computer network <br />
-- 👯 I’m looking to collaborate on open source repositories<br />
-- 💬 Ask me anything 🤓<br />
-- 🥅 2021 Goals: Become a DevOps engineer<br />
-- ⚡ Fun fact: I love to listen to music while coding.<br />
 
 ### Connect with me:
 
