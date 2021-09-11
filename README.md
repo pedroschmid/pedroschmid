@@ -20,7 +20,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 
 <br />
 
-### Programming Languages
+### Dev
 
 <img align="left" alt="javascript" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
@@ -28,7 +28,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 <img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <br />
 
-### DevOps
+### Ops
 
 <img align="left" alt="terraform" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png" />
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
