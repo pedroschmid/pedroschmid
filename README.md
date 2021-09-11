@@ -11,8 +11,6 @@
 ### Glad to see you here!  🤩  &nbsp;
 I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I also work as a junior software engineer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="pedroschmid  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/pedroschmid/)
