@@ -26,7 +26,6 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 <img align="left" alt="java" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="golang" width="36px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
 <img align="left" alt="python" width="36px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
 <br />
 
 ### Ops
