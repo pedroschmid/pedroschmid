@@ -53,9 +53,3 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 <br />
 <br />
 <br />
-
-
-
----
-
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroschmid&show_icons=true&theme=tokyonight)
