@@ -39,6 +39,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 
 ### Cloud
 <img align="left" alt="aws" width="36px" src="https://www.techbrace.com/wp-content/uploads/2018/12/aws.png" />
+<img align="left" alt="google" width="36px" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" />
 <br />
 
 ### Agile
