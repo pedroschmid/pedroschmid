@@ -34,7 +34,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 <img align="left" alt="k8s" width="36px" src="https://butecotecnologico.com.br/images/taxonomies/k8s-logo.png" />
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="argocd" width="26px" src="[https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png]([https://miro.medium.com/v2/resize:fit:1400/1*An25ihShzJkhL3jAwUaWfg.png](https://miro.medium.com/v2/resize:fit:1400/1*An25ihShzJkhL3jAwUaWfg.png))" />
+<img align="left" alt="argocd" width="26px" src="https://miro.medium.com/v2/resize:fit:1400/1*An25ihShzJkhL3jAwUaWfg.png" />
 <br />
 
 ### Cloud
