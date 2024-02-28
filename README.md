@@ -46,7 +46,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 
 <img align="left" alt="git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="jira" width="36px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
-<img align="left" alt="gitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="gitHub" width="36px" src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" />
 <img align="left" alt="bitbucket" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 
