@@ -30,7 +30,7 @@ I am student of Computer Science at Universidade Vila Velha (UVV) 🎓 and I als
 
 ### Ops
 
-<img align="left" alt="terraform" width="26px" src="https://sloopstash.com/assets/image/training/terraform/icon.svg" />
+<img align="left" alt="terraform" width="26px" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" />
 <img align="left" alt="k8s" width="36px" src="https://butecotecnologico.com.br/images/taxonomies/k8s-logo.png" />
 <img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
