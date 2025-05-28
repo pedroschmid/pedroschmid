@@ -12,7 +12,9 @@ I'm a Senior DevOps Engineer passionate about automation, clean infrastructure, 
 
 Whether it's building scalable pipelines, automating everything, or geeking out about hardware — I'm all in. ⚙️💡
 
-<img align="right" height="270px" alt="GIF" src="https://tenor.com/OhH0IeGKEz.gif" />
+<img align="right" height="270px" alt="GIF" src="[https://tenor.com/OhH0IeGKEz.gif](https://tenor.com/OhH0IeGKEz.gif)" />
+
+
 
 ---
 
