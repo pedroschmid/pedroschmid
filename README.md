@@ -12,7 +12,7 @@ I'm a Senior DevOps Engineer passionate about automation, clean infrastructure, 
 
 Whether it's building scalable pipelines, automating everything, or geeking out about hardware — I'm all in. ⚙️💡
 
-<img align="right" height="270px" alt="gif" src="[https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NnandianY3OXRubW9zaTZmd3BnOTBpYzNuZTRiZHRkcjM0bHFhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif)" />
+<img align="right" height="270px" alt="gif" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" />
 
 ---
 
