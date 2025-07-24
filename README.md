@@ -26,7 +26,7 @@ Whether it's building scalable pipelines, automating everything, or geeking out 
 <br/>
 
 #### 🛠 DevOps & Automation
-<img align="left" alt="Terraform" width="32px" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" />
+<img align="left" alt="Terraform" width="32px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
 <img align="left" alt="Docker" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="Kubernetes" width="32px" src="https://butecotecnologico.com.br/images/taxonomies/k8s-logo.png" />
 <img align="left" alt="Jenkins" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
