@@ -41,7 +41,6 @@ Whether it's building scalable pipelines, automating everything, or geeking out 
 #### 🧩 Collaboration & Agile
 <img align="left" alt="Git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="32px" src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" />
-<img align="left" alt="GitLab" width="32px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 <img align="left" alt="Bitbucket" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 <img align="left" alt="Jira" width="32px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
 <br/>
