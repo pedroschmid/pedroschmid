@@ -1,54 +1,148 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="pedroschmid" /> </p> -->
+<div align="center">
 
-### Hey, I'm Pedro 👋
+# Hey, I'm Pedro 👋
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/pedroschmid)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pedroschmid)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=pedroschmid&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedroschmid/pedroschmid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+### Senior DevOps Engineer · Cloud · Kubernetes · Platform Engineering
 
-### Welcome to my castle of code! 👨‍💻
-I'm a Senior DevOps Engineer passionate about automation, clean infrastructure, and cloud-native technologies. With a background in Computer Science and an endless curiosity for learning, I love solving real-world problems using modern tools and smart solutions. 
+I build **reliable cloud infrastructure**, automate delivery pipelines,  
+and turn complex systems into platforms developers can actually enjoy using.
 
-Whether it's building scalable pipelines, automating everything, or geeking out about hardware — I'm all in. ⚙️💡
+<br>
 
-<img align="right" height="300px" width="300" alt="GIF" src="https://github.com/user-attachments/assets/ca9cb54f-3327-4fd9-8040-9550ce6c9a4b" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Schmid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroschmid/)
+[![GitHub](https://img.shields.io/badge/GitHub-pedroschmid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedroschmid)
+![Profile Views](https://komarev.com/ghpvc/?username=pedroschmid&style=for-the-badge&color=0e75b6)
 
----
-
-### 🚀 Tech I Work With
-
-#### 🧠 Core Languages & Tools
-<img align="left" alt="TypeScript" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" alt="Go" width="32px" src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png" />
-<img align="left" alt="Python" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="Java" width="32px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<br/>
-
-#### 🛠 DevOps & Automation
-<img align="left" alt="Terraform" width="32px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
-<img align="left" alt="Docker" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="Kubernetes" width="32px" src="https://butecotecnologico.com.br/images/taxonomies/k8s-logo.png" />
-<img align="left" alt="Jenkins" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="ArgoCD" width="32px" src="https://miro.medium.com/v2/resize:fit:1400/1*An25ihShzJkhL3jAwUaWfg.png" />
-<br/>
-
-#### ☁️ Cloud Platforms
-<img align="left" alt="AWS" width="32px" src="https://www.techbrace.com/wp-content/uploads/2018/12/aws.png" />
-<img align="left" alt="GCP" width="32px" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" />
-<br/>
-
-#### 🧩 Collaboration & Agile
-<img align="left" alt="Git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="32px" src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" />
-<img align="left" alt="Bitbucket" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
-<img align="left" alt="Jira" width="32px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
-<br/>
+</div>
 
 ---
 
-### 📬 Contact Me
+## 👨‍💻 About Me
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/pedroschmid/)
-[<img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/_pedroschmid/)
-<br/>
+```yaml
+name: Pedro Schmid
+role: Senior DevOps Engineer
+
+focus:
+  - Cloud Infrastructure
+  - Kubernetes & Container Platforms
+  - Infrastructure as Code
+  - CI/CD & GitOps
+  - Observability
+  - Automation
+  - Reliability & FinOps
+
+currently:
+  building: scalable cloud-native platforms
+  automating: everything that should not be done twice
+  improving: developer experience and platform reliability
+```
+
+I enjoy working where **software engineering meets infrastructure**.
+
+My day-to-day work involves designing cloud environments, operating Kubernetes platforms, building deployment pipelines, automating infrastructure, improving observability, and finding ways to make systems **simpler, safer, faster, and cheaper to operate**.
+
+I believe good DevOps isn't just about tools — it's about building platforms that let teams **ship confidently**.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+
+[![Cloud](https://skillicons.dev/icons?i=azure,aws,gcp,terraform)](https://skillicons.dev)
+
+### ☸️ Containers & Platform
+
+[![Platform](https://skillicons.dev/icons?i=kubernetes,docker,helm)](https://skillicons.dev)
+
+### 🔁 CI/CD & Automation
+
+[![Automation](https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,ansible)](https://skillicons.dev)
+
+### 💻 Languages & Scripting
+
+[![Languages](https://skillicons.dev/icons?i=bash,powershell,python,go,java,ts)](https://skillicons.dev)
+
+### 📊 Observability & Data
+
+[![Observability](https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongodb,kafka)](https://skillicons.dev)
+
+### 🛠️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 What I Like Building
+
+```text
+Infrastructure as Code     ████████████████████
+Kubernetes Platforms       ████████████████████
+CI/CD & GitOps             ███████████████████░
+Cloud Architecture         ███████████████████░
+Observability              ██████████████████░░
+Automation                 ████████████████████
+Platform Engineering       ███████████████████░
+FinOps                     ████████████████░░░░
+```
+
+I particularly enjoy working on:
+
+- ☸️ Production-ready **Kubernetes platforms**
+- 🏗️ Reusable **Infrastructure as Code**
+- 🔁 Automated **CI/CD pipelines**
+- 🚀 **GitOps** deployment workflows
+- 📊 Monitoring, logging and **observability**
+- 🔐 Cloud security and **identity**
+- 💰 Infrastructure optimization and **FinOps**
+- 🛠️ Internal platforms and **developer experience**
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=pedroschmid&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroschmid&layout=compact&hide_border=true&theme=github_dark"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedroschmid&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💭 Engineering Philosophy
+
+> **Automate what repeats. Observe what matters.  
+> Simplify what is complex. Build for reliability.**
+
+---
+
+<div align="center">
+
+### Let's build something reliable. ⚙️
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedroschmid/)
+
+<sub>Cloud · Kubernetes · Automation · Platform Engineering</sub>
+
+</div>
